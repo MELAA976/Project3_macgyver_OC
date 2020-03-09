@@ -1,2 +1,2 @@
 # Project3_macgyver_OC
-créationdu jeu "Aidez MacGyver à s'échapper !"
+création du jeu "Aidez MacGyver à s'échapper !"
